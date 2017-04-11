@@ -146,7 +146,7 @@
 			</connections>
 			<display>false</display>
 			<creation_date>2017-04-10 14:11:17</creation_date>
-			<updated_date>2017-04-10 16:07:52</updated_date>
+			<updated_date>2017-04-11 09:15:06</updated_date>
 			<model_property>
 				<name>프로젝트명</name>
 				<value></value>
@@ -645,7 +645,7 @@
 					<description></description>
 					<unique_key_name></unique_key_name>
 					<logical_name></logical_name>
-					<physical_name></physical_name>
+					<physical_name>subcategory_id</physical_name>
 					<type>decimal</type>
 					<constraint></constraint>
 					<default_value></default_value>
